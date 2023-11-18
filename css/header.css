@@ -118,7 +118,7 @@ header .search-bar-container label:hover{
     font-size: 3rem;
     padding: .5rem 1.2rem;
     cursor: pointer;
-    display: none;
+    /*display: none;*/
 }
 
 body{
